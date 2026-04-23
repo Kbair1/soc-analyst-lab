@@ -22,7 +22,7 @@ This project demonstrates detection of brute force login attempts using Splunk S
 
 ## Screenshot
 
-![Detection](screenshots/splunk-bruteforce-detection.png)
+![Detection](logs/splunk-bruteforce-detection.png)
 
 ## Skills Demonstrated
 
